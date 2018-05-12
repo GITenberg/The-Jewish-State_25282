@@ -1,0 +1,48 @@
+_repo: The-Jewish-State_25282
+_version: 0.1.0
+alternative_title: Der Judenstaat. English
+contributor:
+  commentators:
+  - agent_name: Bein, Alex
+    birthdate: 1903
+    deathdate: 1988
+    gutenberg_agent_id: '31211'
+    url: http://www.gutenberg.org/2009/agents/31211
+  - agent_name: Lipsky, Louis
+    birthdate: 1876
+    deathdate: 1963
+    gutenberg_agent_id: '31210'
+    url: http://www.gutenberg.org/2009/agents/31210
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herzl, Theodor
+    aliases:
+    - Hertsl, Binyamin Ze'ev
+    - Herzl, Binyamin Ze'ev
+    - Hertsel, Binyamin Ze'ev
+    - Hertsel, Te'odor
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '31209'
+    url: http://www.gutenberg.org/2009/agents/31209
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Herzl
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zionism'
+- !lcsh 'Herzl, Theodor, 1860-1904'
+- !lcsh 'Zionists -- Austria -- Biography'
+- !lcc 'DS'
+title: The Jewish State
+url: http://www.gutenberg.org/ebooks/25282
