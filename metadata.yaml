@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31209
     wikipedia: http://en.wikipedia.org/wiki/Theodor_Herzl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25282#The-Jewish-State
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2008-05-02'
 gutenberg_type: Text
